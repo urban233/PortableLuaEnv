@@ -18,7 +18,7 @@ luac.out
 *.pch
 
 # Libraries
-*.lib
+# *.lib
 *.a
 *.la
 *.lo
@@ -37,3 +37,5 @@ luac.out
 *.x86_64
 *.hex
 
+# Custom
+x64
